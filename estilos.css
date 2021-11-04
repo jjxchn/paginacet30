@@ -28,3 +28,7 @@ body {
 .contraseña {
     font-size: 20px;
 }
+.boton {
+    text-align: center;
+    width: 300px;
+}
