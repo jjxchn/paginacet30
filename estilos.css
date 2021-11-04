@@ -1,16 +1,10 @@
 body {
     background: rgb(9,8,9);
     background: linear-gradient(90deg, rgba(9,8,9,1) 0%, rgba(107,47,47,1) 50%, rgba(64,58,50,1) 100%); 
-    background-attachment: fixed;
-    background-size: cover;
-    background-repeat: no-repeat;
-    background-position: center;
     text-align: center;
     font-size: 48px;
     padding-top: 3px;
-    padding-bottom: 5px;
-    
-    
+    padding-bottom: 5px;  
 }
 .container {
     background-color: rgb(235, 235, 235);
@@ -21,9 +15,16 @@ body {
     background-size: cover;
 }
 .row {
-    margin-right: 50px;
+   /* margin-right: 50px;*/
 }
 .img-cet30{
     width: 220px;
     height: 220px;
+}
+.texto {
+    text-align: center;
+    font-size: 20px;
+}
+.contraseña {
+    font-size: 20px;
 }
